@@ -64,8 +64,6 @@ The dataset represents global energy statistics across regions and policy scenar
 * **Aggregate Functions**
 * **GROUP BY & HAVING**
 * **CASE Statements**
-* **Subqueries**
-* **Common Table Expressions (CTEs)**
 * **Window Functions (LAG)**
 * **SQL Views**
 
