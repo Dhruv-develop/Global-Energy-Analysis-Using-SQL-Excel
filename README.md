@@ -1,5 +1,6 @@
 # ⚡ Global Energy Data Analysis (SQL + Excel)
 
+
 ## 📌 Project Overview
 This project focuses on analyzing **global energy data** to uncover insights related to **regional energy consumption, scenario-based trends, and long-term demand growth** using **SQL** and **Excel dashboards**.
 
@@ -8,6 +9,7 @@ The project follows a real-world analytics workflow:
 * Data exploration and transformation using **SQL**
 * Creation of **business-ready views**
 * Visualization of insights through an **interactive Excel dashboard**
+
 
 ## 🗂️ Dataset Overview
 
@@ -25,6 +27,7 @@ The dataset represents global energy statistics across regions and policy scenar
 | YEAR        | Year                                                 |
 | VALUE       | Energy value                                         |
 
+
 ## 🎯 Project Objectives
 
 * Understand the structure and coverage of global energy data
@@ -33,11 +36,13 @@ The dataset represents global energy statistics across regions and policy scenar
 * Create business-friendly metrics for reporting and visualization
 * Build an executive-level dashboard for decision-making
 
+
 ## 🛠️ Tools & Technologies
 
 * **Database:** MySQL
 * **Language:** SQL
 * **Visualization Tool:** Microsoft Excel
+
 
 ## 🧠 SQL Analysis Performed
 
@@ -53,6 +58,7 @@ The dataset represents global energy statistics across regions and policy scenar
 * Data cleaning and transformation for Excel export
 * Creation of reusable **SQL views** for reporting
 
+
 ## 🧠 SQL Concepts Used
 
 * **Aggregate Functions**
@@ -66,6 +72,7 @@ The dataset represents global energy statistics across regions and policy scenar
 
 ## 📊 Excel Dashboard: Global Energy Overview
 
+
 ### 🔍 Dashboard Purpose
 An **executive-level dashboard** designed to provide a clear overview of **global energy demand trends and regional consumption**.
 
@@ -74,6 +81,7 @@ An **executive-level dashboard** designed to provide a clear overview of **globa
 * How is global energy demand evolving over time?
 * Which regions consume the most energy in the latest year?
 * How do different energy scenarios impact demand?
+
 
 ### 📈 Visuals Included
 
@@ -85,11 +93,13 @@ An **executive-level dashboard** designed to provide a clear overview of **globa
   * Region
   * Energy Level (**Low / Medium / High**)
 
+
 ### 🎛️ Key Features
 
 * Dynamic filtering for interactive analysis
 * Business-friendly energy classification
 * Clean executive layout for quick insights
+
 
 ## 🔍 Key Insights
 
@@ -98,12 +108,14 @@ An **executive-level dashboard** designed to provide a clear overview of **globa
 * Policy scenarios significantly influence future energy projections
 * Energy-level segmentation improves interpretability
 
+
 ## 💡 Business Value
 
 * Enables **data-driven policy and planning decisions**
 * Supports **regional and scenario-based energy comparison**
 * Provides **executive-ready insights** through dashboards
 * Demonstrates an **end-to-end SQL → Excel analytics workflow**
+
 
 ## 👤 Author
 
