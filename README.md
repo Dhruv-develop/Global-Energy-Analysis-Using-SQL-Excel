@@ -120,5 +120,6 @@ An **executive-level dashboard** designed to provide a clear overview of **globa
 ## 👤 Author
 
 **Dhruv Rapariya**
+
 **SQL | Data Analytics | Excel Dashboards | Student Project**
 
